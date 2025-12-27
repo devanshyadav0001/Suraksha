@@ -46,7 +46,8 @@ It ensures that data integrity is maintained and transactions remain immutable, 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Blockchain:** Custom implementation in JavaScript  
-- **Deployment:** Vercel  
+- **Deployment:** Vercel
+- Firebase 
 
 ---
 
