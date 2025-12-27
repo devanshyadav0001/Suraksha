@@ -1,7 +1,7 @@
 # 🔐 Suraksha  
 
 > A blockchain-powered solution for secure, transparent, and decentralized data handling.  
-> Built as part of **Smart India Hackathon (SIH)** to ensure trust, security, and scalability in digital systems.  
+> Built as part of TechSprint to ensure trust, security, and scalability in digital systems.  
 
 🌐 **Live Demo**: [Suraksha Deployment](https://suraksha-drab.vercel.app/)  
 
